@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    margin-top: 200px;
+    width: 400px;
+    height: auto;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    background-color: slategray;
+}
+#ekran{
+    padding: 10px 0px 10px 0px;
+}
+
+#calculatortext {
+    
+    padding: 10px;
+    width: 90%;
+    border: none;
+    border-radius: 3px;
+    text-align: right;
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+
+button {
+    width: 80px;
+    height: 70px;
+    margin-top: 20px;
+    border-radius: 15px;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+#gem{
+    width: 300px;
+    background-color: yellow;
+}
+#gem:hover{
+    background-color: lightblue;
+}
+button:hover{
+    background-color: aqua;
+}
+
+#del{
+
+    width: 350px;
+    height: 50px;
+
+    align-items: center;
+    text-align: center;
+
+    font-size: 30px;
+    font-weight: 600;
+}
+
